@@ -1,4 +1,5 @@
-from colorama import Fore, Back, Style
+from colorama import Fore, Style
+
 
 def main():
     print(Fore.RED + "Hello!")
